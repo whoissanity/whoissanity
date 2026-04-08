@@ -36,8 +36,5 @@ Hardware price aggregation platform for Bangladesh, built with async fan-out arc
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=whoissanity&show_icons=true&theme=tokyonight" />
-</p>
+  <a href="mailto:mdsowadabbus@gmail.com">Email</a> •
+  <a href="https://discord.com/users/your-discord-id">BioLink</a>
