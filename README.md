@@ -28,7 +28,7 @@
 
 ### Featured Project
 
-**[EktaSearch](ektasearch.com)**  
+**[EktaSearch](https://github.com/whoissanity/Ekta-Search)**  
 Hardware price aggregation platform for Bangladesh, built with async fan-out architecture.
 - **Frontend:** React + TypeScript, TailwindCSS, Zustand
 - **Backend:** FastAPI, Async SQLAlchemy, Redis caching
