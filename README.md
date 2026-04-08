@@ -28,7 +28,7 @@
 
 ### Featured Project
 
-**[EktaSearch](https://your-website-link.com)**  
+**[EktaSearch](ektasearch.com)**  
 Hardware price aggregation platform for Bangladesh, built with async fan-out architecture.
 - **Frontend:** React + TypeScript, TailwindCSS, Zustand
 - **Backend:** FastAPI, Async SQLAlchemy, Redis caching
@@ -37,4 +37,4 @@ Hardware price aggregation platform for Bangladesh, built with async fan-out arc
 ---
 
   <a href="mailto:mdsowadabbus@gmail.com">Email</a> •
-  <a href="https://discord.com/users/your-discord-id](https://guns.lol/interests">BioLink</a>
+  <a href="https://guns.lol/interests">BioLink</a>
