@@ -14,26 +14,30 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/FRONTEND-REACT%2018%20%2B%20VITE-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=555555" />
+  <img src="https://img.shields.io/badge/BACKEND-FASTAPI%20%2B%20PYTHON-05998b?style=flat-square&logo=fastapi&logoColor=white&labelColor=555555" />
+  <img src="https://img.shields.io/badge/STATE-ZUSTAND-764abc?style=flat-square&logo=redux&logoColor=white&labelColor=555555" />
+  <img src="https://img.shields.io/badge/UI-TAILWINDCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=555555" />
+  <br />
+  <img src="https://img.shields.io/badge/DATA-REDIS%20CACHE%20%2B%20SQLITE-44a833?style=flat-square&logo=redis&logoColor=white&labelColor=555555" />
 </p>
 
 ### 🤖 Core Interests
-- **Web Scraping:** Testing limits and extracting data from high-security targets.
+- **Web Scraping:** Building resilient data ingestion with BeautifulSoup, lxml, and Asyncio.
 - **Anti-Captcha:** Implementing bypass logic and solving automation roadblocks.
-- **Automation & Robotics:** Building smarter tools and exploring hardware.
+- **Automation & Robotics:** Building smarter tools and exploring hardware optimization.
 
 ---
 
 ### 🚀 Featured Project: [# EktaSearch](https://your-website-link.com)
-> **The ultimate hardware price aggregator for Bangladesh.** > I built this to bring transparency to the local market by scraping retailers like Star Tech and Ryans in real-time.
+> **The ultimate hardware price aggregator for Bangladesh.**
+> I built this to bring transparency to the local market by scraping retailers like Star Tech and Ryans in real-time using asynchronous fan-out patterns.
 
-- **Frontend:** React + Vite (Fast & Modern)
-- **Backend:** Python + Playwright / Scrapy
-- **Database:** SQLite (Lightweight & Efficient)
+- **Frontend:** React 18 + TS, Tailwind, Zustand for state management.
+- **Backend:** FastAPI with Async SQLAlchemy & Redis caching.
+- **Architecture:** Asyncio fan-out with httpx/aiohttp for high-speed data fetching.
 
 ---
 
