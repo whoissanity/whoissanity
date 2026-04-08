@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Sowad Mubasshir</h1>
-  <p><strong>16-year-old developer from Bangladesh 🇧🇩</strong></p>
+  <p><strong>14-year-old developer from Bangladesh </strong></p>
   <p>Focused on web scraping, automation, and robotics.</p>
 </div>
 
@@ -30,6 +30,9 @@
 
 **[EktaSearch](https://your-website-link.com)**  
 Hardware price aggregation platform for Bangladesh, built with async fan-out architecture.
+- **Frontend:** React + TypeScript, TailwindCSS, Zustand
+- **Backend:** FastAPI, Async SQLAlchemy, Redis caching
+- **Architecture:** Asyncio fan-out with httpx/aiohttp for fast data retrieval
 
 ---
 
