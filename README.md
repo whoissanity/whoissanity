@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/REACT%2018%20%2B%20VITE-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=555555" />
   <img src="https://img.shields.io/badge/PYTHON-05998b?style=flat-square&logo=fastapi&logoColor=white&labelColor=555555" />
   <img src="https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=555555" />
-  <br />
-  <img src="https://img.shields.io/badge/DATA-REDIS%20CACHE%20%2B%20SQLITE-44a833?style=flat-square&logo=redis&logoColor=white&labelColor=555555" />
+
 </p>
 
 ### 🤖 Core Interests
