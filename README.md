@@ -4,6 +4,7 @@
   <p>Focused on web scraping, automation, and robotics.</p>
 ```python
 print("I scrape, therefore I am.")
+  ```
 ---
 
 ### Tech Stack
