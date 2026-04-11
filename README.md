@@ -2,10 +2,9 @@
   <h1>Sowad Mubasshir</h1>
   <p><strong>14-year-old developer from Bangladesh </strong></p>
   <p>Focused on web scraping, automation, and robotics.</p>
-</div>
-<p align="center">
-<i>"I scrape, therefore I am"</i>
-</p>
+# A philosophical check on existence
+if &quot;data&quot; in web:
+    print(&quot;I scrape, therefore I am.&quot;)
 ---
 
 ### Tech Stack
