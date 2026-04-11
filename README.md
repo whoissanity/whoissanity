@@ -2,7 +2,8 @@
   <h1>Sowad Mubasshir</h1>
   <p><strong>14-year-old developer from Bangladesh </strong></p>
   <p>Focused on web scraping, automation, and robotics.</p>
-quote = "I scrape, therefore I am."
+```python
+print("I scrape, therefore I am.")
 ---
 
 ### Tech Stack
