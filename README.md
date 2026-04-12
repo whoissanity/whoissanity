@@ -4,9 +4,10 @@
   <p>Focused on web scraping, automation, and robotics.</p>
 <p align="center">
 <i>"I scrape, therefore I am"</i>
-  ---
+  
 </p>
 
+---
 
 ### Tech Stack
 
